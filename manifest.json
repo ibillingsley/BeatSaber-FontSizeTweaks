@@ -1,0 +1,18 @@
+﻿{
+	"$schema": "https://raw.githubusercontent.com/nike4613/ModSaber-MetadataFileSchema/master/Schema.json",
+	"author": "iza",
+	"description": "Change font size of current rank and percentage in game HUD",
+	"gameVersion": "1.37.1",
+	"dependsOn": {
+		"BSIPA": "^4.2.2",
+		"SiraUtil": "^3.0.0"
+	},
+	"id": "FontSizeTweaks",
+	"name": "FontSizeTweaks",
+	"version": "1.0.0",
+	"features": {},
+	"links": {
+		"project-home": "https://github.com/ibillingsley/FontSizeTweaks/releases",
+		"project-source": "https://github.com/ibillingsley/FontSizeTweaks"
+	}
+}
