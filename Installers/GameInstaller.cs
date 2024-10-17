@@ -8,7 +8,7 @@ namespace FontSizeTweaks.Installers
     {
         public override void InstallBindings()
         {
-            Container.BindInterfacesTo<FontSizePatches>().AsSingle();
+            Container.Bind<FontSizePatches>().AsSingle().NonLazy();
         }
     }
 }
