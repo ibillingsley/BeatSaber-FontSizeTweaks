@@ -2,7 +2,7 @@
 
 Tiny mod to change the font size of the rank and percentage in game HUD.
 
-![Screenshot](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAACOBAMAAAARJv0GAAAAElBMVEUICAj9/f3k5OS8vLyKiopLS0s3hx9cAAAENUlEQVR42u2Z0Y6rLBSFSSoPsHFeALT3VfTeafHejOX9X+V3AUXnTEl/OZOcyTmupHXbwDewZcFuhx06dOhfFrcWF2vtxLgxZmL7NOsRl0JrPbBbq1THZqXUsHMUjbjgeiKiSyGJSAwzEe3EFFIMEbO8CaJ+VrsxM5WTn5Sky0zCNHQuDNi7dKX6MTtgyuWDM+O7MS31CczODA+fMFMWppDlFEJgVJ03mplqFjE9txYXjGzYmeF+gwlzc5ic1KyYQoppNwad4J8V80El242Z6Y1LsWIAOO/G4LHgqayYQtKwH7Pk8zNmJje2fZgFMdrlNUUMvOHx+zKstaRqeGC4pD4DQ04iYk4+5ntH8wvmSuWUgdGLJGmHead+6V7z/RhmFzXrkyokVVp3ezEQ32IIqr8PI/q9mDZgrqovNNQxdtPDXszDmtZOywvvhw4dQgnor9EUxgzJptaG6G6MGdlDd2fMpTu/IfDGVQnMHW30yNBaLaoenKJ1pd/S/eSCYa3pvoqjMRrFrbiOZx+E3fiDoHAWp7dx6Iw2TmLy/CaeE1cSWlLt0HXq2Paq0YaEQr+IqTDUC7tSZRuq03u7G4LQLWGw7yQ602wwYrQLundjACadGmA6e5fANGECl4BBWrYYX+4mMT0rthganmFaYBD8NgYf9f8bI1KYNTWvMbPWTzHvVK+peY2BUhhcX2Gmp5iPDSam5iVmtNY+w5SmoRqpsTBvCsMdpsWyXa25XX5CSapPVNoW5p2emqG2RoY8QI9WMIOWwARrLnObffQVc4KRFEVM9FS4DXMmUmMDEnROO3zFPNw3R4zftpCa6PWv9cwWo3Ubx8yRB0wqbJAn9+2qtHj0XzWrRQEjRjavU8eWulKxXSyvt9TqQWsZMIPHRG1vGzqnMEH8K8bNZIvhUlyAAOrpuTA9xyx53d4iw2lM0er+Oab5fDu7JilnnXyp+RqD3vswyPrwCwa+3Iu5KtWzFs8fnoqpAaaakhh7f3iqD14Mb9W6GpEaYIRpEhihNQWMUjJioqfW1Lgm5KK0pz6ipxzmIzo1poYlHc5lPDVP62nrfR33jXjQ8dR+w67xb/JYQrgUu5+kKj36QesuOmdMfhfT3aNGMWZyjYHdfmVwQVqhNTt06K8Sqga39vkS3Loxj3Jv1aJu8iehs3iGeEuQGB8R9TmYIm5Aa5QhbF5qAdSxZnnLxJTmunRGVI23XEyYz1uMyh+AKb8Do1QVIq27bAw3ZvQRs5blYj5HfxpjrfVRZYyZcjHCn3+FxCpWeuXk/DCKKNeaa71db6Ic3UIlsVbeWRh+075u8rufRJQlOxWxs48y9WMwKHd8ZxgrG1O0qvOdC6VqxnMxkkJnRD8GE2aWjyndogtR3ioOviaPISUzMVx+hzW3J/c1RhmaFVQNjBWxtsgQN9AYKp3x+A/BoUOHfkv/AbcvNUWEH/yqAAAAAElFTkSuQmCC)
+![Screenshot](https://github.com/user-attachments/assets/79e1f6f6-578e-4606-8d4e-a6541c0eb569)
 
 ## Config
 
@@ -13,8 +13,8 @@ There is no settings UI, edit `UserData/FontSizeTweaks.json`
 
 ```json
 {
-	"RankFontSize": 33.0,
-	"PercentFontSize": 12.0
+  "RankFontSize": 33.0,
+  "PercentFontSize": 12.0
 }
 ```
 
@@ -22,7 +22,7 @@ There is no settings UI, edit `UserData/FontSizeTweaks.json`
 
 ```json
 {
-	"RankFontSize": 20.0,
-	"PercentFontSize": 20.0
+  "RankFontSize": 20.0,
+  "PercentFontSize": 20.0
 }
 ```
