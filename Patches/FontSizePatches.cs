@@ -11,7 +11,10 @@ namespace FontSizeTweaks.Patches
             if (immediateRankUIPanel != null)
             {
                 immediateRankUIPanel._rankText.fontSize = PluginConfig.Instance.RankFontSize;
+                immediateRankUIPanel._rankText.enableWordWrapping = false;
+
                 immediateRankUIPanel._relativeScoreText.fontSize = PluginConfig.Instance.PercentFontSize;
+                immediateRankUIPanel._relativeScoreText.enableWordWrapping = false;
             }
         }
     }
