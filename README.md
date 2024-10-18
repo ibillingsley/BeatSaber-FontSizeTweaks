@@ -9,7 +9,7 @@ Tiny mod to change the font size of the rank and percentage in game HUD.
 There is no settings UI, edit `UserData/FontSizeTweaks.json`
 (created after launching the game with mod installed)
 
-**Default**
+**Base Game Default**
 
 ```json
 {

@@ -4,7 +4,7 @@
     {
         public static PluginConfig Instance { get; set; }
 
-        public float RankFontSize { get; set; } = 33F;
-        public float PercentFontSize { get; set; } = 12F;
+        public float RankFontSize { get; set; } = 24F; // Default 33
+        public float PercentFontSize { get; set; } = 18F; // Default 12
     }
 }
